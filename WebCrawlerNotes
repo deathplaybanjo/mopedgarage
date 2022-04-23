@@ -1,0 +1,5 @@
+Incremental Web Crawler
+
+Imagine you have been crawling a particular page regularly and want to search, index, and update your existing information repository with the newly updated information on the site. Would you crawl the entire site every time you want to update the information? That sounds like an unwanted extra cost of computation, time, and memory on your machine. The alternative is to use an incremental web crawler.
+
+An incremental web crawler crawls only newly generated information in web pages. They only look for updated information and do not re-download the information that has not changed, or the previously crawled information. Thus it can effectively save crawling time and storage space.
