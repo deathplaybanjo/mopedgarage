@@ -2,7 +2,13 @@
 Remake the garage.1977mopeds.com website
 
 ## tasks:  
- 
+#### discus adding this module/app to MA host with Simon  
+  ###### derrive requirements from existing system  
+    expected performance restricitons  
+    run testing and initial intensive processes on my home PC
+    initial install  
+    future data updates  
+   
 #### frontend  
   TBD  
 #### services  
