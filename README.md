@@ -15,11 +15,8 @@ Remake the garage.1977mopeds.com website
   TBD  
 #### backend  
   ###### acquire data  
-    option a) attempt to make contact with 1997mopeds to DL data directly. 
-      future updates will have to pulled on a regular basis  
-    option b) 
-      write and use a Web Crawler to DL the data auto-magically. put crawler on a periodic schedule to pull and update data  
-    looks like like a combination of users,text data, and pictures 
+    write and use a Web Crawler to DL the data auto-magically. put crawler on a periodic schedule to pull and update data  
+    looks like a combination of users(1:1) and pictures(x:1) each mapped to "moped project text data"
   ###### webcrawler data input  
     transform data into a useful format  
       look into elactic stack options  
